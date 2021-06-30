@@ -3,7 +3,6 @@
 # Purpose:     Detect signs of despair by checking if any of the sad words are contained in the message received from the user
 #              and cheer user up via jokes, relevant quotes, cat videos, and provide resources for suicide prevention
 # Author:      Sundus Yawar
-# Student #:   215-028-574
 # Created:     2021-06-30
 #-----------------------------------------------------------------------------
 import discord
