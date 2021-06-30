@@ -77,5 +77,5 @@ async def on_message(message):#these func are from the discord library
 		await message.channel.send("Even if you may not think so at this moment, your life IS precious. \nPlease call 1-833-456-4566 they are available 24/7 to hear you out. \n You can also send a text to 45645 between 4PM to Midnight ET. \n See their website for Stories of hope under Resources. \nThis help line has saved many lives and it will save yours. \n They are there for you! \n Talking to them will help reduce stress and bring you relief.")
 
 #run the bot
-#client.run(os.getenv('TOKEN'))#put bot token
-client.run('TOKEN')
+client.run(os.getenv('TOKEN'))#put bot token
+
